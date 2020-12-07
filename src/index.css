@@ -11,3 +11,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  cursor: pointer;
+  display: block;
+  width: 350px;
+  padding: 10px;
+  margin: auto;
+  margin-bottom: 15px;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+img {
+  max-width: 500px;
+  max-height: 500px;
+  margin: auto;
+  margin-top: 50px;
+  display: block;
+  box-shadow: 0px 0px 10px black;
+}
+input {
+  box-sizing: border-box;
+  display: block;
+  padding: 10px;
+  width: 350px;
+  margin: auto;
+  margin-bottom: 15px;
+}
+h1, h2 {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+.submit {
+  background-color: #0275d8;
+  color: white;
+
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+
+.login {
+  /* The image used */
+  
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

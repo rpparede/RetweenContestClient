@@ -25,22 +25,19 @@ function App() {
   }
 
   return (
-    <div>
-    <form onSubmit={mySubmitHandler}>
-    <h1>Please enter your Tweet ID below:</h1>
-    <input
-      type='text'
-      onChange={myChangeHandler}
-    />
-    <input
-      type='submit'
-    />
-    </form>
-    <div>
-     { winner !== '' && <h1> Winner is {winner} </h1>}
-     </div>
-     </div>
+    <div class = "login">
+      <form onSubmit={mySubmitHandler}>
+        <h1> Retweet Contest </h1>
+        <h2>Please enter your Tweet ID below:</h2>
+        <input type='text' onChange={myChangeHandler}/>
+        <input type='submit' class = "submit" value="Start"/>
+      </form>
+      <div>
+      { winner !== '' && <h1> Winner is {winner} 🎉</h1>}
+      </div>
+    </div>
   );
 }
+
 
 export default App;
