@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RetweenContestClient/static/css/main.57c3435e.chunk.css",
+    "main.js": "/RetweenContestClient/static/js/main.84476889.chunk.js",
+    "main.js.map": "/RetweenContestClient/static/js/main.84476889.chunk.js.map",
+    "runtime-main.js": "/RetweenContestClient/static/js/runtime-main.28f8fc12.js",
+    "runtime-main.js.map": "/RetweenContestClient/static/js/runtime-main.28f8fc12.js.map",
+    "static/js/2.b2c1189c.chunk.js": "/RetweenContestClient/static/js/2.b2c1189c.chunk.js",
+    "static/js/2.b2c1189c.chunk.js.map": "/RetweenContestClient/static/js/2.b2c1189c.chunk.js.map",
+    "static/js/3.78f642cb.chunk.js": "/RetweenContestClient/static/js/3.78f642cb.chunk.js",
+    "static/js/3.78f642cb.chunk.js.map": "/RetweenContestClient/static/js/3.78f642cb.chunk.js.map",
+    "index.html": "/RetweenContestClient/index.html",
+    "static/css/main.57c3435e.chunk.css.map": "/RetweenContestClient/static/css/main.57c3435e.chunk.css.map",
+    "static/js/2.b2c1189c.chunk.js.LICENSE.txt": "/RetweenContestClient/static/js/2.b2c1189c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/RetweenContestClient/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f8fc12.js",
+    "static/js/2.b2c1189c.chunk.js",
+    "static/css/main.57c3435e.chunk.css",
+    "static/js/main.84476889.chunk.js"
+  ]
+}
